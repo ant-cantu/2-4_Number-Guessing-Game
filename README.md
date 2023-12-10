@@ -39,8 +39,10 @@ The purpose of this program is to play a number guessing game. The
 program will give you five tries.
 
 <ul>
-If difference of your guess is >= 50 <br>
+<li>If difference of your guess is >= 50 <br>
+  <ul>
   <li><b>The program will output: very high/low</b></li> <br>
+  </ul>
 If difference is >= 30 and <= 50 <br>
   <li><b>The program will output: high/low</b></li> <br>
 If difference is >= 15 and <= 30 <nr>
