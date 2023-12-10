@@ -43,13 +43,20 @@ program will give you five tries.
   <ul>
   <li><b>The program will output: very high/low</b></li> <br>
   </ul>
-If difference is >= 30 and <= 50 <br>
+<li>If difference is >= 30 and <= 50 <br>
+  <ul>
   <li><b>The program will output: high/low</b></li> <br>
-If difference is >= 15 and <= 30 <nr>
+  </ul>
+<li>If difference is >= 15 and <= 30 <br>
+  <ul>
   <li><b>The program will output: moderately high/low</b></li> <br>
-If difference is > 0 and < 15 <br>
+  </ul>
+<li>If difference is > 0 and < 15 <br>
+  <ul>
   <li><b>The program will output: somewhat high/low</b></li> <br>
+  </ul>
 </ul>
+  
 ## Screenshot
 
 <p align="center">
