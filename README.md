@@ -38,14 +38,14 @@ This is a standalone application, no installation is required.
 The purpose of this program is to play a number guessing game. The
 program will give you five tries.
 
-If difference of your guess is >= 50
-  The program will output: very high/low
-If difference is >= 30 and <= 50
-  The program will output: high/low
-If difference is >= 15 and <= 30
-  The program will output: moderately high/low
-If difference is > 0 and < 15
-  The program will output: somewhat high/low
+If difference of your guess is >= 50 <br>
+  <b>The program will output: very high/low</b> <br>
+If difference is >= 30 and <= 50 <br>
+  <b>The program will output: high/low</b> <br>
+If difference is >= 15 and <= 30 <nr>
+  <b>The program will output: moderately high/low</b> <br>
+If difference is > 0 and < 15 <br>
+  <b>The program will output: somewhat high/low</b> <br>
 
 ## Screenshot
 
