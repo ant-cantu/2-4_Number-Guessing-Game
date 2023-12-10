@@ -50,5 +50,5 @@ If difference is > 0 and < 15
 ## Screenshot
 
 <p align="center">
-<img src="image url" width="70%" height="50%">https://github.com/ant-cantu/2-4_Number-Guessing-Game/assets/137722821/32e919ae-e234-4202-97ee-b773107cc012</img>
+<img src="https://github.com/ant-cantu/2-4_Number-Guessing-Game/assets/137722821/32e919ae-e234-4202-97ee-b773107cc012" width="70%" height="50%"></img>
 </p>
